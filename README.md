@@ -3,7 +3,6 @@ This first project as a 42 student is going to help you consolidate your piscine
 
 ### Objectives:
 
-<<<<<<< HEAD
     - Basic of C
     - Libc
 
