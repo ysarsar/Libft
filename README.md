@@ -3,11 +3,11 @@ This first project as a 42 student is going to help you consolidate your piscine
 
 ### Objectives:
 
-    * Basic of C
-    * Libc
+    + Basic of C
+    + Libc
 
 ### Skills:
 
-    * Rigor
-    * Imperative programming
-    * Algorithms & AI
+    + Rigor
+    + Imperative programming
+    + Algorithms & AI
